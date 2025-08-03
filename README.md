@@ -89,7 +89,7 @@ get-papers-list "2022:2023[PDAT] AND COVID-19"
 
 You can also use the tool as a Python module:
 
-```python
+\`\`\`python
 from pubmed_pharma_papers import PubMedPharmaFetcher
 
 # Initialize fetcher
